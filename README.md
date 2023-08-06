@@ -1,5 +1,3 @@
-# PracticeReact
-
 Daily_Productive_Framework_Checklist_
 
 1)create a countdown clock and stopwatch.
